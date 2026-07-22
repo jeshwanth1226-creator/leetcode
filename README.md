@@ -46,6 +46,7 @@
 | [0013-roman-to-integer](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -80,4 +82,8 @@
 | [0021-merge-two-sorted-lists](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
