@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Trie
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
