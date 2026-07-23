@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0136-single-number) |
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
