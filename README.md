@@ -22,6 +22,7 @@
 | [0076-minimum-window-substring](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -63,6 +64,7 @@
 | [0058-length-of-last-word](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
 | ------- |
