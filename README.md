@@ -21,6 +21,7 @@
 | [0049-group-anagrams](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -92,6 +93,7 @@
 | [0141-linked-list-cycle](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 | [0141-linked-list-cycle](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Stack
 |  |
 | ------- |
