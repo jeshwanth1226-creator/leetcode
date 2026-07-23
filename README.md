@@ -29,6 +29,7 @@
 | [0706-design-hashmap](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0735-asteroid-collision) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0706-design-hashmap) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -245,6 +247,7 @@
 | [0525-contiguous-array](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
