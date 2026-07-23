@@ -166,6 +166,7 @@
 | [0328-odd-even-linked-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0706-design-hashmap](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -187,6 +188,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
