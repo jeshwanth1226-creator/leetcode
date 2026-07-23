@@ -80,6 +80,7 @@
 | [0061-rotate-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0086-partition-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0061-rotate-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0086-partition-list) |
 ## Stack
 |  |
 | ------- |
