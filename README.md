@@ -25,6 +25,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -220,6 +221,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0704-binary-search](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0704-binary-search) |
 ## Design
 |  |
 | ------- |
