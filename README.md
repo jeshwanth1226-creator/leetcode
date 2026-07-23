@@ -19,6 +19,7 @@
 | [0303-range-sum-query-immutable](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0290-word-pattern](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | [0268-missing-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -145,6 +148,7 @@
 | [0287-find-the-duplicate-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Stack
 |  |
 | ------- |
@@ -182,6 +186,7 @@
 | [0268-missing-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Design
 |  |
 | ------- |
