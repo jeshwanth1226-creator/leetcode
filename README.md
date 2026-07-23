@@ -56,6 +56,7 @@
 | [0049-group-anagrams](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0075-sort-colors](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
