@@ -28,6 +28,7 @@
 | [0205-isomorphic-strings](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -43,6 +44,7 @@
 | [0148-sort-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -75,6 +77,7 @@
 | [0076-minimum-window-substring](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
