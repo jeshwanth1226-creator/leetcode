@@ -26,6 +26,7 @@
 | [0561-array-partition](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0706-design-hashmap) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0525-contiguous-array](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0567-permutation-in-string) |
+| [0706-design-hashmap](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0706-design-hashmap](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -226,6 +229,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0706-design-hashmap](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0706-design-hashmap) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -249,4 +253,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0682-baseball-game) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
