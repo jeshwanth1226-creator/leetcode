@@ -21,6 +21,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0525-contiguous-array](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0525-contiguous-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0409-longest-palindrome](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0525-contiguous-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0525-contiguous-array) |
 ## Matrix
 |  |
 | ------- |
