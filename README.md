@@ -86,6 +86,7 @@
 | [0086-partition-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0143-reorder-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,16 +98,19 @@
 | [0086-partition-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0143-reorder-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0143-reorder-list) |
 ## String Matching
 |  |
 | ------- |
