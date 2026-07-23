@@ -27,6 +27,7 @@
 | [0682-baseball-game](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -236,6 +237,7 @@
 | [0303-range-sum-query-immutable](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0724-find-pivot-index) |
 ## Matrix
 |  |
 | ------- |
