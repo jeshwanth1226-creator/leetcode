@@ -40,6 +40,7 @@
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [0242-valid-anagram](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
