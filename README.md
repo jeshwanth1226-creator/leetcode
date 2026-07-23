@@ -14,6 +14,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -45,6 +47,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -90,6 +93,7 @@
 | [0009-palindrome-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -154,8 +158,13 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0268-missing-number) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0148-sort-list) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
