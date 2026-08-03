@@ -100,6 +100,7 @@
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Quickselect
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0844-backspace-string-compare) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
@@ -263,6 +265,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0561-array-partition) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Counting Sort
 |  |
 | ------- |
