@@ -127,6 +127,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0844-backspace-string-compare) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -224,6 +225,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0796-rotate-string) |
 ## Bit Manipulation
 |  |
 | ------- |
