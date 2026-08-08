@@ -130,6 +130,7 @@
 | [0796-rotate-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0844-backspace-string-compare) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1392-longest-happy-prefix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1392-longest-happy-prefix) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
@@ -226,6 +227,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1392-longest-happy-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -282,16 +284,23 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0706-design-hashmap) |
+| [1392-longest-happy-prefix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
