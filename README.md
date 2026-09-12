@@ -328,4 +328,12 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0214-shortest-palindrome) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
