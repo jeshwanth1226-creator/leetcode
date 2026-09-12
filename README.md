@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0049-group-anagrams) |
@@ -187,6 +188,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -279,6 +281,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
