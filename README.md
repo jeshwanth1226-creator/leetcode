@@ -39,6 +39,7 @@
 | [0735-asteroid-collision](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -70,6 +71,7 @@
 | [0706-design-hashmap](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
@@ -112,6 +114,7 @@
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Quickselect
 |  |
@@ -159,6 +162,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
