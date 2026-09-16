@@ -6,13 +6,20 @@ class Solution(object):
         :rtype: int
         """
         freq={0:1}
-        curr_sum=0
+        prefix_sum=0
         count=0
-        for i in nums:
-            curr_sum+=i
-            if curr_sum - k in freq:
-                count+=freq.get(curr_sum-k)
-            freq[curr_sum]=freq.get(curr_sum,0)+1
-        return count
 
+        for num in nums:
+
+            prefix_sum+=num
+
+            needed=prefix_sum-k
+
+            if needed in freq:
+
+                count+=freq[needed]
+
+            freq[prefix_sum]=freq.get(prefix_sum,0)+1
+        
+        return count
         
