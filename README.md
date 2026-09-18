@@ -29,6 +29,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0561-array-partition) |
@@ -67,6 +68,7 @@
 | [0409-longest-palindrome](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0567-permutation-in-string) |
@@ -178,6 +180,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0523-continuous-subarray-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Trie
 |  |
 | ------- |
@@ -296,6 +299,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -379,4 +383,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0239-sliding-window-maximum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
