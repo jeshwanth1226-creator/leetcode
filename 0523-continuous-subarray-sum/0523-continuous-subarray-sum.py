@@ -1,0 +1,26 @@
+class Solution(object):
+    def checkSubarraySum(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: bool
+        """
+        remainder_map = {0: -1}
+        prefix_sum = 0
+
+        for i in range(len(nums)):
+
+            prefix_sum += nums[i]
+            remainder = prefix_sum % k
+
+            if remainder in remainder_map:
+
+                previous_index = remainder_map[remainder]
+
+                if i - previous_index >= 2:
+                    return True
+
+            else:
+                remainder_map[remainder] = i
+
+        return False
