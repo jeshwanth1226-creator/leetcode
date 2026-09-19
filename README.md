@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -80,6 +81,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -387,4 +389,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0523-continuous-subarray-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
