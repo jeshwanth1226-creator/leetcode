@@ -5,17 +5,21 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        freq={0:1}
+        prefix=0
+        rem={0:1}
         count=0
-        curr_sum=0
-        for i in nums:
-            curr_sum+=i
-            rem=curr_sum % k
-            if rem in freq:
-                count+=freq.get(rem)
-            freq[rem]=freq.get(rem,0)+1
-        return count
 
+        for i in range(len(nums)):
+            
+            prefix+=nums[i]
+            r=prefix%k
+
+            if r in rem:
+                count+=rem[r]
+                rem[r]+=1
+            else:
+                rem[r]=1
         
+        return count
 
         
