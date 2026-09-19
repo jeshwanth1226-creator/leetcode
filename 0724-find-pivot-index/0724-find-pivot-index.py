@@ -4,15 +4,20 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        prefix_sum=[0]
-        for num in nums:
-            prefix_sum.append(prefix_sum[-1]+num)
-        
-        for i in range(len(nums)):
-            left_sum=prefix_sum[i]
-            right_sum=(prefix_sum[-1]-prefix_sum[i+1])
-            if left_sum==right_sum:
-                return i
-        return -1
+        left=0
+        total=sum(nums)
 
+        for i in range(len(nums)):
+
+            right=total-left-nums[i]
+
+            if left==right:
+                
+                return i
+
+            else:
+
+                left+=nums[i]
         
+        return -1
+            
