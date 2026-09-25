@@ -86,6 +86,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -279,6 +280,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
