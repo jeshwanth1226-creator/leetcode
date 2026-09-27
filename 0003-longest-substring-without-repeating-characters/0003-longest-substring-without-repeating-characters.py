@@ -4,13 +4,18 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        seen=set()
+        seen={}
         left=0
-        ans=0
+        res=0
+
         for right in range(len(s)):
-            while s[right] in seen:
-                seen.remove(s[left])
-                left+=1
-            seen.add(s[right])
-            ans=max(ans,right-left+1)
-        return ans
+
+            if s[right] in seen:
+
+                left=max(left,seen[s[right]]+1)
+
+            seen[s[right]]=right
+
+            res=max(res,right-left+1)
+
+        return res
