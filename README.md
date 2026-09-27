@@ -3,8 +3,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0014-longest-common-prefix) |
@@ -50,8 +50,8 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0013-roman-to-integer) |
@@ -82,8 +82,8 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0191-number-of-1-bits) |
@@ -91,8 +91,8 @@
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0075-sort-colors) |
@@ -108,34 +108,34 @@
 | [0451-sort-characters-by-frequency](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0561-array-partition) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0014-longest-common-prefix) |
@@ -165,8 +165,8 @@
 | [1392-longest-happy-prefix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1392-longest-happy-prefix) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -182,8 +182,8 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0009-palindrome-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -191,12 +191,12 @@
 | [0445-add-two-numbers-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0014-longest-common-prefix) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0024-swap-nodes-in-pairs) |
@@ -219,8 +219,8 @@
 | [0706-design-hashmap](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -247,8 +247,8 @@
 | [0844-backspace-string-compare](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -258,8 +258,8 @@
 | [0735-asteroid-collision](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0844-backspace-string-compare) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
@@ -268,8 +268,8 @@
 | [0206-reverse-linked-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0234-palindrome-linked-list) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -277,19 +277,19 @@
 | [0796-rotate-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1392-longest-happy-prefix) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0136-single-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0148-sort-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0148-sort-list) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0268-missing-number) |
@@ -301,13 +301,13 @@
 | [0713-subarray-product-less-than-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0706-design-hashmap](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0706-design-hashmap) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -319,92 +319,92 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0561-array-partition](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0561-array-partition) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0682-baseball-game](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0844-backspace-string-compare) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0214-shortest-palindrome) |
 | [0706-design-hashmap](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0706-design-hashmap) |
 | [1392-longest-happy-prefix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0686-repeated-string-match) |
 ## Rolling Hash
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1392-longest-happy-prefix) |
 ## Manacher
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0214-shortest-palindrome) |
 ## Quicksort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0075-sort-colors) |
 ## Bubble Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0075-sort-colors) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Range Minimum/Maximum Query
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0239-sliding-window-maximum) |
 ## Pigeonhole Principle
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0647-palindromic-substrings) |
