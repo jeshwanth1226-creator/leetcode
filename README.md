@@ -21,6 +21,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0217-contains-duplicate) |
@@ -193,6 +194,7 @@
 | [0013-roman-to-integer](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -241,6 +243,7 @@
 | [0148-sort-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0287-find-the-duplicate-number) |
