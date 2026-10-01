@@ -6,35 +6,37 @@ class Solution(object):
         :rtype: List[int]
         """
         left = 0
-        right = len(nums)
+        right = len(nums)-1
+        first=len(nums)
 
         # Lower bound
-        while left < right:
+        while left <= right:
             mid = (left + right) // 2
 
             if nums[mid] >= target:
-                right = mid
+                first=mid
+                right = mid-1
             else:
                 left = mid + 1
-
-        first = left
 
         # Target doesn't exist
         if first == len(nums) or nums[first] != target:
             return [-1, -1]
 
         left = 0
-        right = len(nums)
+        right = len(nums)-1
+        last=len(nums)
 
         # Upper bound
-        while left < right:
+        while left <= right:
             mid = (left + right) // 2
 
             if nums[mid] > target:
-                right = mid
+                last = mid
+                right=mid-1
             else:
                 left = mid + 1
 
-        return [first, left - 1]
+        return [first, last - 1]
 
         
