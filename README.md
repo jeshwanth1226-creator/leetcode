@@ -48,6 +48,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -314,6 +315,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Design
 | Problem Name | Difficulty |
