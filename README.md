@@ -55,6 +55,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jeshwanth1226-creator/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/jeshwanth1226-creator/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -115,6 +116,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0561-array-partition) |
+| [1552-magnetic-force-between-two-balls](https://github.com/jeshwanth1226-creator/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +321,7 @@
 | [0875-koko-eating-bananas](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jeshwanth1226-creator/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/jeshwanth1226-creator/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
