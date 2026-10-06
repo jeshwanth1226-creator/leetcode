@@ -36,6 +36,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0525-contiguous-array) |
@@ -317,6 +318,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -335,6 +337,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -351,6 +354,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0561-array-partition](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -431,6 +435,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0647-palindromic-substrings](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jeshwanth1226-creator/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
