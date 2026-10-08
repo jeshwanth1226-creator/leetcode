@@ -206,6 +206,7 @@
 | [0069-sqrtx](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0263-ugly-number](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0523-continuous-subarray-sum) |
