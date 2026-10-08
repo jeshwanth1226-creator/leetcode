@@ -4,7 +4,20 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        s=s.split()
-        l=len(s)
-        return len(s[l-1])
+        count=0
+        i=len(s)-1
+
+        while i>=0:
+            if s[i]==" ":
+                
+                if count>0:
+                    break
+            else:
+                count+=1
+            
+            i-=1
+        
+        return count
+        
+
         
