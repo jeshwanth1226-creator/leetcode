@@ -29,6 +29,7 @@
 | [0219-contains-duplicate-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -100,6 +101,7 @@
 | [0148-sort-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
@@ -315,6 +317,7 @@
 | [0162-find-peak-element](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -351,6 +354,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Greedy
 | Problem Name | Difficulty |
