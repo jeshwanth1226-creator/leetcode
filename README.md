@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0136-single-number) |
@@ -201,6 +202,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0189-rotate-array/) | Medium |
