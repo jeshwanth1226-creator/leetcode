@@ -5,24 +5,24 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        pos = {}
-        for i in range(len(nums1)):
-            pos[nums1[i]] = i
-
+        pos={}
+        for i,x in enumerate(nums1):
+            pos[x]=i
         s=set(nums1)
-        stack=[]
         ans=[-1]*len(nums1)
 
-        for i,x in enumerate(nums2):
+        for i in range(len(nums2)):
 
-                while stack and nums2[stack[-1]]<x:
-                    
-                    ans[pos[nums2[stack.pop()]]]=x
-                
-                if x in s:
-                    stack.append(i)
-        
+            if nums2[i] in s:
+
+                j=i+1
+
+                while j<len(nums2):
+
+                    if nums2[i]<nums2[j]:
+                        ans[pos[nums2[i]]]=nums2[j]
+                        break
+                    j+=1
+
         return ans
-
-
         
