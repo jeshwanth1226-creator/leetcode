@@ -54,6 +54,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -282,6 +283,7 @@
 | [0503-next-greater-element-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0844-backspace-string-compare) |
 ## Recursion
 | Problem Name | Difficulty |
@@ -463,4 +465,5 @@
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
