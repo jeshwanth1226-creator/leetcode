@@ -172,6 +172,7 @@
 | [0290-word-pattern](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0409-longest-palindrome](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -280,6 +281,7 @@
 | [0143-reorder-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -297,6 +299,7 @@
 | [0203-remove-linked-list-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0394-decode-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
