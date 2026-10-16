@@ -168,6 +168,7 @@
 | [0125-valid-palindrome](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0290-word-pattern) |
@@ -213,6 +214,7 @@
 | [0069-sqrtx](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0224-basic-calculator](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0263-ugly-number](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0268-missing-number) |
@@ -282,6 +284,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0394-decode-string/) | Medium |
@@ -301,6 +304,7 @@
 | [0143-reorder-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/jeshwanth1226-creator/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0394-decode-string/) | Medium |
 ## String Matching
