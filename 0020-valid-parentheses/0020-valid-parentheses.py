@@ -1,5 +1,6 @@
-class Solution(object):
-    def isValid(self, s):
+class Solution:
+    def isValid(self, s: str) -> bool:
+        
         O="([{"
         C=")]}"
         stack=[]
@@ -13,3 +14,5 @@ class Solution(object):
                 if O.index(top)!=C.index(i):
                     return False
         return len(stack)==0
+
+        
