@@ -487,4 +487,8 @@
 | [0496-next-greater-element-i](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/jeshwanth1226-creator/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
